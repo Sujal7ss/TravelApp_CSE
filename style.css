@@ -818,7 +818,8 @@ input:checked + .slider:before {
   .e {
     display: none;
   }
-}
-.footerNav {
+  .footerNav {
     display: none;
   }
+}
+
