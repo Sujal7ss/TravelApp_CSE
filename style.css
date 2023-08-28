@@ -819,3 +819,6 @@ input:checked + .slider:before {
     display: none;
   }
 }
+.footerNav {
+    display: none;
+  }
