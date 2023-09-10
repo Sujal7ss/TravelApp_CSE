@@ -302,6 +302,10 @@ nav {
   height: 100px;
   /* background-color: red; */
   margin-bottom: 3px;
+  
+}
+.infoData:hover {
+    font-size : 18px;
 }
 .infoData img {
   float: left;
