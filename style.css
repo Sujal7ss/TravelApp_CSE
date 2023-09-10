@@ -807,7 +807,7 @@ input:checked + .slider:before {
   }
   .download {
     text-align: center;
-    height: 40vh;
+    height: 50vh;
   }
 
   .resources li {
